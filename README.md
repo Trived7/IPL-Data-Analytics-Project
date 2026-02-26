@@ -69,7 +69,7 @@ The project demonstrates how raw sports data can be transformed into meaningful 
 <h5><ins>Member 1</ins> – SQL Developer [Sumedhapalla]</h5>
 Data cleaning, query writing, database management
 
-<h5><ins>Member 2</ins> – Python & ML Developer</a> <strong> $\color{blue}{\textsf{[Trived7][TEAM LEADER]}}$ </strong></h5> 
+<h5><ins>Member 2</ins> – Python & ML Developer</a> <strong> $\textsf{{\color[rgb]{0.0, 0.0, 1.0}[}{\color[rgb]{0.1, 0.0, 0.9}T}{\color[rgb]{0.2, 0.0, 0.8}r}{\color[rgb]{0.3, 0.0, 0.7}i}{\color[rgb]{0.4, 0.0, 0.6}v}{\color[rgb]{0.5, 0.0, 0.5}e}{\color[rgb]{0.6, 0.0, 0.4}d}{\color[rgb]{0.7, 0.0, 0.3}7}{\color[rgb]{0.8, 0.0, 0.2}]}}$ $\color{blue}{\text{[TEAM LEADER]}}$ </strong></h5> 
   
 <p><strong>EDA, feature engineering, model building</strong></p>
 
